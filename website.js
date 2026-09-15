@@ -1,5 +1,0 @@
-<body>
-    <text>
-        Hello World!
-    </text>
-</body>
